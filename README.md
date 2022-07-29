@@ -22,4 +22,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ### Links  
 [Patika.dev](www.patika.dev)  
-[Patika Profilim](https://app.patika.dev/begumbusegul)
+[Patika Profilim](https://app.patika.dev/begumbusegul)  
+[Linkedin](https://www.linkedin.com/in/begumbusegul/)
