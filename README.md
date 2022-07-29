@@ -21,5 +21,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/) 
 
 ### Links  
-[Patika Dev](www.patika.dev)
+[Patika Dev](www.patika.dev)  
 [Patika Profilim](https://app.patika.dev/begumbusegul)
